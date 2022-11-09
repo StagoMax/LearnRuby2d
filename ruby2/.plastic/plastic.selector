@@ -1,0 +1,4 @@
+repository "ruby2@ssl://stagomax@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/1563730093" 
+     
